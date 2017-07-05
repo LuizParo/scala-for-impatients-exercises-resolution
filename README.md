@@ -1,1 +1,1 @@
-# scala-for-impatients-exercises-resolution
+Source code found on http://horstmann.com/scala/
