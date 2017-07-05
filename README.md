@@ -1,0 +1,1 @@
+# scala-for-impatients-exercises-resolution
